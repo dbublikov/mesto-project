@@ -1,0 +1,24 @@
+@import "./__list/cards__list.css";
+
+.cards {
+  width: 73.5%;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 1105px) {
+  .cards {
+    width: 83%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cards {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .cards {
+    width: 88.2%;
+  }
+}

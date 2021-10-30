@@ -1,0 +1,19 @@
+@import "./__container/popup__container.css";
+@import "./__title/popup__title.css";
+@import "./__form/popup__form.css";
+@import "./__label/popup__label.css";
+@import "./__input/popup__input.css";
+@import "./__btn-submit/popup__btn-submit.css";
+@import "./__btn-close/popup__btn-close.css";
+
+.popup {
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  display: none;
+  justify-content: center;
+  align-items: center;
+}

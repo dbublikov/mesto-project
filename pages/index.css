@@ -1,0 +1,25 @@
+@import "../vendor/normalize.css";
+@import "../fonts/Inter/inter.css";
+@import "../blocks/root/root.css";
+@import "../blocks/page/page.css";
+
+@import "../blocks/header/header.css";
+@import "../blocks/header/__logo/header__logo.css";
+
+@import "../blocks/main/main.css";
+@import "../blocks/profile/profile.css";
+@import "../blocks/profile/__user/profile__user.css";
+@import "../blocks/profile/__img/profile__img.css";
+@import "../blocks/profile/__user-info/profile__user-info.css";
+@import "../blocks/profile/__heading/profile__heading.css";
+@import "../blocks/profile/__title/profile__title.css";
+@import "../blocks/profile/__subtitle/profile__subtitle.css";
+@import "../blocks/profile/__btn-edit/profile__btn-edit.css";
+@import "../blocks/profile/__btn-add/profile__btn-add.css";
+@import "../blocks/profile/__btn/profile__btn.css";
+
+@import "../blocks/cards/cards.css";
+@import "../blocks/card/card.css";
+@import "../blocks/footer/footer.css";
+@import "../blocks/popup/popup.css";
+@import "../blocks/popup/_opened/popup_opened.css";
