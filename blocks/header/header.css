@@ -1,14 +1,14 @@
 .header {
-  width: 73.5%;
+  width: 68.75%;
   padding: 45px 0 40px;
   margin: 0 auto;
   border-bottom: solid 1px rgb(84, 84, 84, 0.7);
   transition: 0.3s;
 }
 
-@media screen and (max-width: 1105px) {
+@media screen and (max-width: 1024px) {
   .header {
-    width: 83%;
+    width: 90%;
   }
 }
 

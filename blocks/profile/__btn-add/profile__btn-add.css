@@ -12,7 +12,7 @@
   outline-style: none;
   padding: 0;
   position: relative;
-  /* transform: translateY(6px); */
+  transform: translateY(6px);
 }
 
 .profile__btn-add::after {
@@ -34,8 +34,14 @@
     background-image: none;
     border: 2px solid #fff;
     width: 100%;
-    height: 50px;
+    height: 70px;
     margin: 0 auto;
     transform: translateY(0);
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .profile__btn-add {
+    height: 50px;
   }
 }

@@ -1,16 +1,15 @@
 .profile {
-  width: 73.5%;
+  width: 68.75%;
   margin: 0 auto;
   padding: 36px 0 47px;
   display: grid;
   grid-template-columns: repeat(2, auto);
   justify-content: space-between;
-  /* column-gap: 25px; */
 }
 
-@media screen and (max-width: 1105px) {
+@media screen and (max-width: 1024px) {
   .profile {
-    width: 83%;
+    width: 90%;
   }
 }
 
@@ -25,6 +24,6 @@
 
 @media screen and (max-width: 510px) {
   .profile {
-    width: 88.2%;
+    width: 88.125%;
   }
 }

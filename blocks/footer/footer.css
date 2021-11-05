@@ -1,14 +1,14 @@
 @import url("./__copyright/footer__copyright.css");
 
 .footer {
-  width: 73.5%;
+  width: 68.75%;
   margin: 0 auto;
   padding: 66px 0 60px;
 }
 
-@media screen and (max-width: 1105px) {
+@media screen and (max-width: 1024px) {
   .footer {
-    width: 83%;
+    width: 90%;
   }
 }
 
@@ -21,6 +21,6 @@
 
 @media screen and (max-width: 425px) {
   .footer {
-    width: 88.2%;
+    width: 90%;
   }
 }

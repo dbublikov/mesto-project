@@ -1,15 +1,8 @@
-@import url("./__image/card__image.css");
-@import url("./__heading/card__heading.css");
-@import url("./__title/card__title.css");
-@import url("./__btn-like/card__btn-like.css");
-
 .card {
   width: 100%;
   background-color: #fff;
   border-radius: 10px;
-  box-sizing: border-box;
   overflow: hidden;
-  position: relative;
   display: flex;
   flex-direction: column;
 }
