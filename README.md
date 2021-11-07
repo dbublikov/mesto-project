@@ -9,3 +9,5 @@ _Учебный проект по верстке одностраничного 
 - Flexbox;
 - Grid-layout;
 - Файловая система организована по Nested BEM;
+
+### [Посмотреть](https://dbublikov.github.io/mesto-project/)
